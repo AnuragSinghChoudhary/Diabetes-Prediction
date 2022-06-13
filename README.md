@@ -43,3 +43,6 @@ https://www.kaggle.com/datasets/mathchi/diabetes-data-set
 
 <img width="953" alt="1" src="https://user-images.githubusercontent.com/98888047/173284849-a46e3d7b-116c-4d32-ad8a-a3b<img width="957" alt="2" src="https://user-images.githubusercontent.com/98888047/173284865-5085eade-81e3-4091-9a8e-c95fef7a1c3e.png">
 72ebfe461.png">
+
+
+<img width="957" alt="2" src="https://user-images.githubusercontent.com/98888047/173284962-83c015e6-54e2-4714-983a-e98e53c3e7a2.png">
